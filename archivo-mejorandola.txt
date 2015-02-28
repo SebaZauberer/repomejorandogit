@@ -1,1 +1,2 @@
-Este es otro archivo para los ejercicios de la clase de git-github
+Este es otro archivo para los ejercicios de la clase de git-github 
+llego el bigote
